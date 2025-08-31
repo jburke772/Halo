@@ -16,7 +16,7 @@
             "material": "PLA Baisc",
             "spool_id": "18",
             "color": "#None",
-            "weight": 1000.0,
+            "weight": 999.3026669083628,
             "extruder_temp": 210,
             "runout_lane": "NONE",
             "filament_status": "In Tool",
