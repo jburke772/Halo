@@ -44,7 +44,7 @@
             "runout_lane": "NONE",
             "filament_status": "Prep",
             "filament_status_led": "#ffffff",
-            "status": "ejecting"
+            "status": null
         },
         "lane3": {
             "name": "lane3",
@@ -90,7 +90,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded"
+            "status": "ejecting"
         }
     },
     "system": {
